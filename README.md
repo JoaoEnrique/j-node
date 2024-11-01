@@ -1,4 +1,6 @@
 Biblioteca para configurar projeto node e iniciar a aplicação de forma simples, criando .env, token do JWT entre outras coisas
+Visualizar no npm: https://www.npmjs.com/package/j-node
+
 
 ```
 npm install -g j-node
