@@ -1,0 +1,22 @@
+{
+  "name": "j-node",
+  "version": "1.0.17",
+  "description": "Biblioteca para configurar projeto node e iniciar a aplicação de forma simples, criando .env, token do JWT entre outras coisas",
+  "type": "commonjs",
+  "bin": {
+    "j-node": "./index.js"
+  },
+  "author": "João Enrique Barbosa Santos Alves",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "files": [
+    "index.js",
+    "jwt.js"
+  ],
+  "readme": "README.md"
+}
